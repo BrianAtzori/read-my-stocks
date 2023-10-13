@@ -1,8 +1,7 @@
-# React + Vite
+# Read My Stocks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple webapp/draft project made for testing
 
-Currently, two official plugins are available:
+🔧 Built with React + Tailwind CSS + Daisy UI + Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Avaible on Vercel @ https://read-my-stocks-bzbgqjtle-brianatzori.vercel.app/
